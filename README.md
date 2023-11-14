@@ -4,8 +4,8 @@
 - 🔭 I’m currently working on my **AWS Certified Sysops Administrator - Associate certification**
 - 🌱 I’m currently learning AWS CloudFormation
 - 📫 How to reach me **keeganpulchinski@gmail.com**
-- 📄 Know more about me [https://keeganpulchinski.net/](https://keeganpulchinski.net/)
-
+- 📄 Know more about me with [https://keeganpulchinski.net/](https://keeganpulchinski.net/)
+<a href="https://www.keeganpulchinski.com/" target="_blank" rel="noreferrer"> <img src="https://keeganpulchinski.net/images/favicon.png" alt="keegan-pulchinski" width="60" height="50"/> </a> 
 <!--
 **keeganpulchinski/keeganpulchinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
