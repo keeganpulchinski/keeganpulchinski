@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-[![Website](https://img.shields.io/website?label=Adityacprtm.dev&style=for-the-badge&url=https%3A%2F%2Fkeeganpulchinski.net)][website]
+[![Website](https://img.shields.io/website?label=KeeganPulchinski.net&style=for-the-badge&url=https%3A%2F%2Fkeeganpulchinski.net)][website]
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 
 
@@ -68,12 +68,7 @@ Other                    14 mins             █░░░░░░░░░░�
 
 </details>
 
-[website]: https://adityacprtm.dev
-[blog]: https://adityacprtm.dev/blog
-[twitter]: https://twitter.com/adityacprtm
-[steam]: https://steamcommunity.com/id/adityacprtm
-[instagram]: https://instagram.com/adityacprtm
-[linkedin]: https://linkedin.com/in/adityacprtm
-[facebook]: https://www.facebook.com/adityacprtm
-[github]: https://github.com/Adityacprtm
+[website]: https://keeganpulchinski.net
+
+[linkedin]: https://linkedin.com/in/keegan-pulchinski-628190198/
 
