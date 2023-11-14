@@ -9,12 +9,6 @@
 <h3 align="left">My Website:</h3>
 <p align="left">
 <a href="https://www.keeganpulchinski.com/" target="_blank" rel="noreferrer"> <img src="https://keeganpulchinski.net/images/favicon.png" alt="keegan-pulchinski" width="10%" height="10%"/> </a> </p>
-<!--
-**keeganpulchinski/keeganpulchinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
 
 
 <h3 align="left">Connect with me:</h3>
