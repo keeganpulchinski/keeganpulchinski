@@ -8,7 +8,7 @@
 
 <h3 align="left">My Website:</h3>
 <p align="left">
-<a href="https://www.keeganpulchinski.com/" target="_blank" rel="noreferrer"> <img src="https://keeganpulchinski.net/images/favicon.png" alt="keegan-pulchinski" width="10%" height="10%"/> </a> </p>
+<a href="https://www.keeganpulchinski.net/" target="_blank" rel="noreferrer"> <img src="https://keeganpulchinski.net/images/favicon.png" alt="keegan-pulchinski" width="10%" height="10%"/> </a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
