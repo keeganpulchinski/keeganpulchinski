@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my **AWS Certified Sysops Administrator - Associate certification**
 - 🌱 I’m currently learning AWS CloudFormation
-- 📫 How to reach me **keeganpulchinski@gmail.com**
+- 📫 How to reach me: **keeganpulchinski@gmail.com**
 
 
 <h3 align="left">My Website:</h3>
