@@ -1,5 +1,4 @@
 <h1 align="center"> Hi! 👋 I am Keegan Pulchinski!! </h1>
-<h3 align="center">An aspiring Cloud and Network Engineer</h3>
 
 - 🔭 I’m currently working on my **AWS Certified Sysops Administrator - Associate certification**
 - 🌱 I’m currently learning AWS CloudFormation
