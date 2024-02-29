@@ -1,7 +1,7 @@
 <h1 align="center"> Hi! 👋 I am Keegan Pulchinski!! </h1>
 
-- 🔭 I’m currently working on a project that uses Ansible, Terraform, AWS, and Cisco devices -> https://github.com/keeganpulchinski/Network-Automation-with-Cloud-Integration
-- 🌱 I’m currently learning AWS CloudFormation
+- 🔭 Currently working on a project that uses Ansible, Terraform, AWS, and Cisco devices --> https://github.com/keeganpulchinski/Network-Automation-with-Cloud-Integration
+- 🌱 I’m currently learning DevOps practices
 - 📫 How to reach me: **keeganpulchinski@gmail.com**
 
 
