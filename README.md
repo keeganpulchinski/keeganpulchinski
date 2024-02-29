@@ -1,12 +1,13 @@
 <h1 align="center"> Hi! 👋 I am Keegan Pulchinski!! </h1>
 
-- 🔭 I’m currently working on a project that uses Ansible, Terraform, AWS, and local Cisco routers ---> https://github.com/keeganpulchinski/Network-Automation-with-Cloud-Integration
+- 🔭 I’m currently working on a project that uses Ansible, Terraform, AWS, and local Cisco routers ↓↓↓↓↓ https://github.com/keeganpulchinski/Network-Automation-with-Cloud-Integration
 - 🌱 I’m currently learning AWS CloudFormation
 - 📫 How to reach me: **keeganpulchinski@gmail.com**
 
 
 <h3 align="left">My Website:</h3>
 <p align="left">
+↓↓↓↓↓
 <a href="https://www.keeganpulchinski.net/" target="_blank" rel="noreferrer"> <img src="https://keeganpulchinski.net/images/favicon.png" alt="keegan-pulchinski" width="10%" height="10%"/> </a> </p>
 
 
