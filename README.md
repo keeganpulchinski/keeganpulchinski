@@ -1,7 +1,8 @@
 <h1 align="center"> Hello! </h1>
 
-- 🔭 Currently working on a project that uses Ansible, Terraform, AWS, and Cisco devices -> https://github.com/keeganpulchinski/Network-Automation-with-Cloud-Integration
-- 🌱 I’m currently learning DevOps practices
+Cloud Engineer
+
+
 - 📫 How to reach me: **keeganpulchinski@gmail.com**
 
 
